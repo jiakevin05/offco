@@ -2,11 +2,11 @@ body {
   font-size: 16px;
   color: #fff;
   background-color: #e6f9ff; /*maroon*/
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Oxygen', Arial;
 }
 
 h1 { 
-	font-family: 'Lora', sans-serif;
+	font-family: 'Lora', Arial;
 	color:#ffffff;
 	font-size: 1.5em;
 	font-weight: bold;
@@ -16,7 +16,7 @@ h1 {
 }
 
 h2 { 
-	font-family: 'Lora', sans-serif;
+	font-family: 'Lora', Arial;
 	color:#006080;
 	/*font-size: 1.8em;*/
 	font-weight: bold;
@@ -25,7 +25,7 @@ h2 {
 }
 
 h3 { 
-	font-family: 'Lora', sans-serif;
+	font-family: 'Lora', arial;
 	/*font-size: 1.3em;*/
 	font-weight: bold;
 }
