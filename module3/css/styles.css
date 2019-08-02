@@ -34,13 +34,13 @@ h3 {
 
 /** ============= HEADER ===================== **/
 #header-nav {
-	background-color: #cc6600;  
+	background-color: #e3db3b;  
 }
 
 /*Menu items*/
 #nav-list {
   margin-top: 10px;
-  background-color: #804000; 
+  background-color: #db7004; 
 }
 #nav-list a { /*dropdown menu colors*/
   color: #ffffff;
@@ -68,17 +68,17 @@ h3 {
 
 div.sectiontxt{
 	margin: 10px;
-	background: #006080;
-	color: #e6f9ff;
+	background: #48e88b;
+	color: #fce6ff;
 	padding: 15px;
 }
 
 .sectiontxt a {
-	color: #ffcc00;
+	color: #474747;
 }
 
 .sectiontxt a:hover {
-	color: #ff9900;
+	color: #2e2e2e;
 }
 
 /** #################################################################### **/
